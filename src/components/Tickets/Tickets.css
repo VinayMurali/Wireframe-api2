@@ -1,0 +1,75 @@
+.heading-div{
+  position: relative;
+  right: 423px;
+    font-family: monospace;
+}
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+.main-div{
+   font-family: monospace;
+}
+.current-field-list{
+    margin-left: 256px;
+    padding: 27px;
+    font-size: 18px;
+    /* border: 3px solid #000000; */
+    text-align: -webkit-auto;
+    margin-right: 34px;
+    width: 82%;
+    float: left;
+}
+.col-md-6{
+    margin-left: -900px;
+    padding: 27px;
+    font-size: 18px;
+    border: 3px solid #000000;
+}
+.toogle-div{
+
+
+  text-align: right;
+
+  bottom:60px;
+
+}
+.edit-button-div{
+
+    position: relative;
+    left: 1021px;
+    bottom: -2px;
+  }
+.edit-button{
+  /* background-color: #4CAF50; */
+  box-shadow: 5px 5px #000;
+	background-color: #ffff;
+  top:-11px;
+}
+.common{
+
+}
+.body{
+  overflow-x: hidden;
+  border: 3px solid black;
+
+}
+.form-div{
+  border:3px solid #000;
+  margin-bottom: 25px;
+  padding: 10px;
+  width: 100%;
+  float: left;
+
+}
+.data-r{
+  width: 100%;
+  float: left;
+}
+.f-c-2{
+  width: 10%;
+  float: left;
+  text-align: left
+}

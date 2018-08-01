@@ -1,0 +1,52 @@
+.outer-form{
+	font-family: monospace;
+  text-align: left;
+  margin-left: 190px;
+  position: relative;
+  top: 6px;
+  left: 94px;
+  animation: inherit;
+  display: grid;
+	padding: 20px;
+}
+.heading {
+  	   font-size: 28px;
+}
+.cancel{
+    /* //background-color:#4CAF50; */
+    font-family: monospace;
+}
+.submit{
+    /* background-color:#4CAF50; */
+    font-family: monospace;
+}
+.button{
+	margin-right: 20px;
+	float: left;
+	box-shadow: 5px 5px #000;
+	background-color: #ffff;
+}
+
+button{
+	background-color: #ffff;
+	border: 3px solid #000000;
+	color: #000;
+	font-size: 16px;
+	padding: 5px 20px;
+}
+
+.form-row{
+	width: 100%;
+  float: left;
+  padding: 10px 0px;
+}
+
+.form-column-1{
+	width: 10%;
+  float: left;
+}
+
+.form-column-2{
+	width: 60%;
+  float: left;
+}
